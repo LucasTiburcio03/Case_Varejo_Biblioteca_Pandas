@@ -1,0 +1,1 @@
+# Case_Varejo_Biblioteca_Pandas
